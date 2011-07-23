@@ -1,10 +1,10 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <resources>
-  <string name="app_name">网盘</string>
-  <string name="shared_apps_tab_title">人人为我</string>
-  <string name="suggested_apps_tab_title">装机必备</string>
-  <string name="installed_apps_tab_title">我为人人</string>
-  <string name="one_click_install">安装</string>
+  <string name="app_name">الشبكة</string>
+  <string name="shared_apps_tab_title">Man for me</string>
+  <string name="suggested_apps_tab_title">يجب التثبيت</string>
+  <string name="installed_apps_tab_title">One for all</string>
+  <string name="one_click_installتثبيت</string>
   <string name="install_apps">安装 (%d)</string>
   <string name="refresh_app_list">刷新</string>
   <string name="refreshing_app_list">正在刷新</string>
